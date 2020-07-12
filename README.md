@@ -4,4 +4,4 @@ A password checker that uses the have i been pwned api to check if your password
 
 have i been pwned api : https://api.pwnedpasswords.com/range/
 
-run py checkmypass.py
+py checkmypass.py <your-input>
